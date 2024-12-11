@@ -1,7 +1,7 @@
 ### To-Do
 
 - [x] Aim Key
-- [x] Aimbot Smoothing
+- [ ] Aimbot Smoothing
 - [ ] Cheat Menu Design
 - [ ] Implement stbImage.h (gif)
 - [ ] Loader Particales Cash Falling
