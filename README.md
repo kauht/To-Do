@@ -6,7 +6,7 @@
 - [ ] Implement stbImage.h ( gif )
 - [ ] Loader Particales Cash Falling
 - [ ] Implement Key Auth
-- [ ] FOV Circle Hide/Show
+- [x] FOV Circle Hide/Show
 - [ ] Define Key Strings Switch Statement For Aim Key
 - [ ] Visible Check Toggle
 - [ ] Silent Aim
