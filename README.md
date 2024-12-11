@@ -7,7 +7,7 @@
 - [ ] Loader Particales Cash Falling
 - [ ] Implement Key Auth
 - [x] FOV Circle Hide/Show
-- [ ] Define Key Strings Switch Statement For Aim Key
+- [x] Define Key Strings Switch Statement For Aim Key
 - [ ] Visible Check Toggle
 - [ ] Silent Aim
 - [ ] Rework Aimbot
