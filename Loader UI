@@ -1,0 +1,17 @@
+Frame Position: 760x290 (x / 2) - (ImGui::GetWindowSize().x / 2), (y / 2) - (ImGui::GetWindowSize().y / 1.5)
+Frame Size
+
+Top Bar Position: 0, 0
+Top Bar Size: 400, 20
+
+Username Position: 87.5, 216.65
+Username Size: 225, 30
+Username Font: Cabin Medium 10
+
+Password Position: 87.5, 266.65
+Password Size: 225, 30
+Password Font: Cabin Medium 10
+
+Sign In Position: 87.5, 326.65
+Sign In Size: 225, 35
+Sign In Font: DM Sans Bold 16
