@@ -15,4 +15,5 @@
 - [ ] Aim Spot ( Head, Neck, Pelvis, Penis, Feet, Any/Closest )
 - [ ] Corner Boxes ( ESP )
 - [ ] Disable Aimbot ( Weapon Check )
+- [ ] Base config system
 - [ ] Cloud config system
